@@ -10,7 +10,7 @@ const traerNombre = (nombre = 'David') => `Mi Nombre es ${nombre}`;
 console.log(traerNombre());
 
 
-//// EJMPLO 2
+//// EJEMPLO 2
 const getUsuario = () => {
     const user = { username: 'David', password: '123' };
     const profile = { rol: 'admin', password: '123', email: 'dev@gmail.com' };
